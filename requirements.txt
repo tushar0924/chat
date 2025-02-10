@@ -9,3 +9,4 @@ aiohttp
 beautifulsoup4
 sentence-transformers
 ollama
+groq
