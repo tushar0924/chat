@@ -1,0 +1,12 @@
+streamlit
+transformers
+python-dotenv
+langchain
+langchain-community
+pypdf
+torch
+aiohttp
+beautifulsoup4
+sentence-transformers
+ollama
+time
